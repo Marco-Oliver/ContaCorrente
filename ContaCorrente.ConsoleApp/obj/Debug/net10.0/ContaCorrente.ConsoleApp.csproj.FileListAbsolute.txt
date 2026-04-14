@@ -1,0 +1,15 @@
+C:\Users\User\Documents\academia 2026\ContaCorrente\ContaCorrente.ConsoleApp\bin\Debug\net10.0\ContaCorrente.ConsoleApp.exe
+C:\Users\User\Documents\academia 2026\ContaCorrente\ContaCorrente.ConsoleApp\bin\Debug\net10.0\ContaCorrente.ConsoleApp.deps.json
+C:\Users\User\Documents\academia 2026\ContaCorrente\ContaCorrente.ConsoleApp\bin\Debug\net10.0\ContaCorrente.ConsoleApp.runtimeconfig.json
+C:\Users\User\Documents\academia 2026\ContaCorrente\ContaCorrente.ConsoleApp\bin\Debug\net10.0\ContaCorrente.ConsoleApp.dll
+C:\Users\User\Documents\academia 2026\ContaCorrente\ContaCorrente.ConsoleApp\bin\Debug\net10.0\ContaCorrente.ConsoleApp.pdb
+C:\Users\User\Documents\academia 2026\ContaCorrente\ContaCorrente.ConsoleApp\obj\Debug\net10.0\ContaCorrente.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\academia 2026\ContaCorrente\ContaCorrente.ConsoleApp\obj\Debug\net10.0\ContaCorrente.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\User\Documents\academia 2026\ContaCorrente\ContaCorrente.ConsoleApp\obj\Debug\net10.0\ContaCorrente.ConsoleApp.AssemblyInfo.cs
+C:\Users\User\Documents\academia 2026\ContaCorrente\ContaCorrente.ConsoleApp\obj\Debug\net10.0\ContaCorrente.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\academia 2026\ContaCorrente\ContaCorrente.ConsoleApp\obj\Debug\net10.0\ContaCorrente.ConsoleApp.sourcelink.json
+C:\Users\User\Documents\academia 2026\ContaCorrente\ContaCorrente.ConsoleApp\obj\Debug\net10.0\ContaCorrente.ConsoleApp.dll
+C:\Users\User\Documents\academia 2026\ContaCorrente\ContaCorrente.ConsoleApp\obj\Debug\net10.0\refint\ContaCorrente.ConsoleApp.dll
+C:\Users\User\Documents\academia 2026\ContaCorrente\ContaCorrente.ConsoleApp\obj\Debug\net10.0\ContaCorrente.ConsoleApp.pdb
+C:\Users\User\Documents\academia 2026\ContaCorrente\ContaCorrente.ConsoleApp\obj\Debug\net10.0\ContaCorrente.ConsoleApp.genruntimeconfig.cache
+C:\Users\User\Documents\academia 2026\ContaCorrente\ContaCorrente.ConsoleApp\obj\Debug\net10.0\ref\ContaCorrente.ConsoleApp.dll
